@@ -1,0 +1,11 @@
+name: Text review
+
+on: push
+
+jobs:
+  check-spelling:
+    name: Spell check
+    steps:
+      - name: Check spelling
+        uses: check-spelling/check-spelling@0.0.17-alpha
+
