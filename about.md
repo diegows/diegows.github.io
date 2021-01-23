@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I'm from Buenos Aires, Argentina. Founding partner of
-[Flugel](https://flugel.it), I love solving any kind of problemas, specially 
+[Flugel](https://flugel.it), I love solving any kind of problems, specially 
 technical ones. My IT career started 20+ years ago, working as Linux Specialist.
 I embrace open source since high school, and I have an special interest for
 Operating Systems and hardware architecture (logical, not physical).
