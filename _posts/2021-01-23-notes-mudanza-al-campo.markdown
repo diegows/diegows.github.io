@@ -52,5 +52,5 @@ ANÉCDOTA: La primera vez que llegamos al nene al colegio, salimos 12:30 porque 
 * Extraño el delivery nada más. Acá hay solo pizza, empanadas, alguna minuta. Nada más. No extraño los lugares para ir a comer, porque me voy hasta alguna ciudad cercana y hay muchas opciones, hasta comida china, etc.
 * Nos podemos ir a pasar el día al aire libre, salir de vacaciones o fin de semana largo sin sufrir la vuelta. En 2 minutos estamos en la ruta, y volvemos sin ningún embotellamiento. Cuando vivía en Lanús recuperaba el stress a partir de la rotonda de alpargatas en la vuelta de un fin de semana largo.
 
-Cualquier duda me avisan en Twitter!
+Cualquier duda me avisan en [Twitter](https://twitter.com/DiegoWoitasen)!
 
