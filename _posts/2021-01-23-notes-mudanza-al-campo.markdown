@@ -6,7 +6,7 @@ categories: personal
 tag: spanish
 ---
 
-Desde que tengo memoria siempre nos gusto la idea de irnos de Lanús para terminar en algún pueblo. En el 2015-2016 concretamos el objetivo, comprando un terreno y construyendo en un pueblo en algún lugar entre Roque Perez y Chivilcoy (me reservo el nombre, me van a encontrar igual pero no lo quiero hacer tan fácil). Este post es un resumen de las cosas que tuvimos en cuenta para elegir el lugar, y algunas que nos dimos cuenta después.
+Desde que tengo memoria siempre nos gusto la idea de irnos de Lanús para terminar en algún pueblo. En el 2015-2016 concretamos el objetivo, comprando un terreno y construyendo en un pueblo en algún lugar de la provinci de Buenos Aires (me reservo el nombre, me van a encontrar igual pero no lo quiero hacer tan fácil). Este post es un resumen de las cosas que tuvimos en cuenta para elegir el lugar, y algunas que nos dimos cuenta después.
 
 # Puntos que tuvimos en cuenta antes de mudarnos
 
@@ -26,8 +26,8 @@ En resumen, nosotros buscamos un pueblo tranquilo, pero no muerto. Que sea chico
 
 (igual estamos super conformes, al AMBA no volvemos nunca más)
 
-* La ciudad grande podría haber estado un poco más cerca. Ahora tenemos a Chivilcoy a 60km, ahi hay mas opciones de colegios, clubes, etc. Nosotros llevamos a los chicos a natación 2 veces por semana. No nos molesta manejar 45 minutos, hay 0 tráfico, pero tal vez hubiera sido un poco más fácil si estaba más cerca. Ni hablar si los querés mandar a un colegio privado.
-* Que el pueblo tenga alguna opcion mas de transporte tal vez es un punto a pensar. Aca solo tenemos combi para ir y volver de CABA en el día. Sale a las 6 AM, vuelve a las 6 PM. No hay ningún tipo de transporte para ir a ninguna de las ciudades cercanas. Auto dependencia 100%.
+* La ciudad "grande" podría haber estado un poco más cerca. Ahora tenemos una ciudad de 50.000-60.000 habitantes a 60km, ahi hay mas opciones de colegios, clubes, etc. No nos molesta manejar 45 minutos, hay 0 tráfico, pero tal vez hubiera sido un poco más fácil si estaba más cerca. Ni hablar si los querés mandar a un colegio privado.
+* Que el pueblo tenga alguna opcion mas de transporte tal vez es un punto a pensar. Aca solo tenemos combi para ir y volver de CABA en el día. No hay ningún tipo de transporte para ir a ninguna de las ciudades cercanas. Auto dependencia 100%.
 * Hace unos años no se veía tan claro, pero con el teletrabajo definitivamente no necesitamos para nada ir a CABA. Los temas médicos también resolvemos todo por la zona. Nos podríamos haber ido más lejos sin problema (Objetivo 2030?).
 * Este punto no es importante para nosotros, pero para otro tal vez sí. Hay ciudades de 50k habitantes donde podés vivir bastante tranquilo (no como un pueblo), y tenes todo lo que podés encontrar en un barrio de CABA o en algún lugar céntrico del conurbano: negocios, lugares para comer, cafés, etc). (Ej: Chivilcoy).
 
