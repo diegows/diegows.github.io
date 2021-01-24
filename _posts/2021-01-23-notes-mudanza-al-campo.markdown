@@ -6,7 +6,7 @@ categories: personal
 tag: spanish
 ---
 
-Desde que tengo memoria siempre nos gusto la idea de irnos de Lanús para terminar en algún pueblo. En el 2015-2016 concretamos el objetivo, comprando un terreno y construyendo en un pueblo en algún lugar de la provinci de Buenos Aires (me reservo el nombre, me van a encontrar igual pero no lo quiero hacer tan fácil). Este post es un resumen de las cosas que tuvimos en cuenta para elegir el lugar, y algunas que nos dimos cuenta después.
+Desde que tengo memoria siempre nos gusto la idea de irnos de Lanús para terminar en algún pueblo. En el 2015-2016 concretamos el objetivo, comprando un terreno y construyendo en un pueblo en algún lugar de la provincia de Buenos Aires (me reservo el nombre, me van a encontrar igual pero no lo quiero hacer tan fácil). Este post es un resumen de las cosas que tuvimos en cuenta para elegir el lugar, y algunas que nos dimos cuenta después.
 
 # Puntos que tuvimos en cuenta antes de mudarnos
 
