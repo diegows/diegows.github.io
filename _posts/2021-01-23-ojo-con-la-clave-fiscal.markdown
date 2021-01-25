@@ -42,7 +42,7 @@ La clave fiscal no es broma. Yo antes de ésto no tenía idea del daño que te p
 
 Investigando por Google, encontré de casos de gente super humilde que fueron a sacar un crédito personal y fueron rechazados, porque tenían una deuda millonaria con la AFIP, empresas, empleados, etc, etc. Personas que nunca habían tenido clave fiscal siquiera, más turbio todavía.
 
-La AFIP es automática para molestar, le avisa a ARBA si te inscribiste para que ARBA te mande una carta para que pagues ingresos brutos, pero no le avisa cuando te das de baja. ARBA te sigue cobrando si te olvidaste. Menos que menos te avisa si tu facturación se multiplicó 100 veces sin explicación. Mi amigo factuba unos pocos cientos de miles de pesos.
+La AFIP es automática para molestar, le avisa a ARBA si te inscribiste para que ARBA te mande una carta para que pagues ingresos brutos, pero no le avisa cuando te das de baja. ARBA te sigue cobrando si te olvidaste. Menos que menos te avisa si tu facturación se multiplicó 100 veces sin explicación. Mi amigo facturaba unos pocos cientos de miles de pesos.
 
 Tengan mucho cuidado con la clave fiscal, y aunque la manejen de forma segura, revisen una o dos veces por mes las facturas que tienen emitidas. Si las agarran rápido las pueden cancelar.
 
