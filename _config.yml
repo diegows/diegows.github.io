@@ -28,7 +28,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-theme: hacker
+theme: minima
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
