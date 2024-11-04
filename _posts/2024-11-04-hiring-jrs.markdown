@@ -23,7 +23,7 @@ Feel free to apply to the one you consider the best fit for you.
 
 In the application form, I request a link to a github repo to see the results of the following technical challenges:
 
-# General requirements for the challenge
+### General requirements for the challenge
 
 1. Create an emptoy Github repo.
 2. Do not push anything to the main branch.
@@ -33,7 +33,7 @@ In the application form, I request a link to a github repo to see the results of
 
 Now select the challenge based on the position you are applying for.
 
-# Challenge for Backend engineers
+### Challenge for Backend engineers
 
 ## Objective
 
@@ -64,7 +64,7 @@ Create a simple API for managing orders. The API should allow basic CRUD operati
    - Add a README with setup instructions.
    - Unit tests.
 
-# Challenge for FrontEnd Engineers
+### Challenge for FrontEnd Engineers
 
 ## Objective
 Build a simple frontend interface for managing orders. The application should display a list of orders, support basic CRUD operations, and implement pagination.
@@ -101,14 +101,14 @@ Build a simple frontend interface for managing orders. The application should di
    - Add a README with setup instructions.
    - Include basic unit tests for components.
 
-# Challenge for FullStack Engineers
+### Challenge for FullStack Engineers
 
 ## Objective
 Build a simple Order Management System with both frontend and backend components. The backend should handle CRUD operations and support pagination, while the frontend should allow users to interact with the order data seamlessly.
 
 ## Requirements
 
-### Backend
+# Backend
 1. **API Endpoints**
    - `POST /orders` – Create a new order.
    - `GET /orders/{id}` – Retrieve order details by ID.
@@ -128,7 +128,7 @@ Build a simple Order Management System with both frontend and backend components
 3. **Pagination**
    Support pagination for `GET /orders`.
 
-### Frontend
+# Frontend
 1. **Order List View**
    - Display a paginated list of orders with the following fields:
      - `Order ID`
@@ -154,14 +154,14 @@ Build a simple Order Management System with both frontend and backend components
 5. **Error and Loading States**
    - Handle API responses, including loading and error states.
 
-### Bonus
+## Bonus
 - **Backend**: Add filtering by `status` for `GET /orders`.
 - **Frontend**: Add a filter option to view orders by `status`.
 - **Testing**: Include basic unit tests for both frontend components and backend endpoints.
 - **Documentation**: Add a README with setup instructions for both frontend and backend.
 
 
-# Challenge for Cloud Engineers
+### Challenge for Cloud Engineers
 
 ## Objective
 Build an infrastructure setup on AWS to deploy a scalable web application using **Terraform**, **ECS**, and **AWS networking best practices**.
