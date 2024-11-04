@@ -31,6 +31,7 @@ In the application form, I request a link to a github repo to see the results of
 4. Using AI to accelerate coding is fine.
 5. Record a code walkthrough and a demo of your application and paste the link to the video in the PR description. 5 min max.
 
+Now select the challenge based on the position you are applying for.
 
 # Challenge for Backend engineers
 
@@ -100,7 +101,7 @@ Build a simple frontend interface for managing orders. The application should di
    - Add a README with setup instructions.
    - Include basic unit tests for components.
 
-# Coding for FullStack Engineers
+# Challenge for FullStack Engineers
 
 ## Objective
 Build a simple Order Management System with both frontend and backend components. The backend should handle CRUD operations and support pagination, while the frontend should allow users to interact with the order data seamlessly.
