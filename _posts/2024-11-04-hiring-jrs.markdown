@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hiring juniors - devs and cloud"
-date: 2021-05-08 08:05:33
+date: 2024-11-04 08:05:33
 categories: hiring
 ---
 
