@@ -192,6 +192,6 @@ If you are interested in applying for FullStack with Cloud Infra skills, feel fr
 
 # How to apply
 
-Apply here: (https://airtable.com/appUkxpvzu2PeWYer/pagqD1NOksubT0Z96/form)
+Apply [here](https://airtable.com/appUkxpvzu2PeWYer/pagqD1NOksubT0Z96/form)
 
  
