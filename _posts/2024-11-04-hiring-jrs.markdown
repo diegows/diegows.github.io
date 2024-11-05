@@ -23,7 +23,7 @@ In the application form, I request a link to a github repo to see the results of
 
 # General requirements for the challenge
 
-1. Create an emptoy Github repo.
+1. Create an empty Github repo.
 2. Do not push anything to the main branch.
 3. Create a PR with all the code (do not merge it, keep it open for my review).
 4. Using AI to accelerate coding is fine.
