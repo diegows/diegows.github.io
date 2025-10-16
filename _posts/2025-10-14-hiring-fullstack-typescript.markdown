@@ -7,7 +7,7 @@ categories: hiring
 
 Hi! I'm hiring junior or trainee full stack engineers with experience in the TypeScript ecosystem.
 
-In the first stage, good candidates will be hired for small, freelance projects. If everything goes fine, this could be a full time job.
+In the first stage, good candidates will be hired for small, freelance projects. We work in 30-hour sprints, which are paid at $150-250 USD per sprint. If everything goes fine, this could be a full time job.
 
 ## Position: Full Stack Engineer (TypeScript)
 
